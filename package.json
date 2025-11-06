@@ -1,0 +1,58 @@
+{
+  "name": "react_scroll_reveal",
+  "version": "1.0.0",
+  "description": "Lightweight, customizable React components for scroll-based and staggered animations",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "start": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "animation",
+    "scroll",
+    "intersection-observer",
+    "stagger",
+    "fade",
+    "entrance",
+    "reveal",
+    "animated",
+    "components"
+  ],
+  "author": "Anushka Isuranga <isuranga880@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnushkaIsuranga/React_Scroll_Reveal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnushkaIsuranga/React_Scroll_Reveal/issues"
+  },
+  "homepage": "https://github.com/AnushkaIsuranga/React_Scroll_Reveal#readme",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.1.17",
+    "vite": "^5.4.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
