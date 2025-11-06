@@ -21,6 +21,7 @@ yarn add react-scroll-reveal
 # or
 pnpm add react-scroll-reveal
 ```
+> Currently not published to npm. We'll focus on it sooner. For now, extract the `AnimatedElement.jsx` & `AnimationSequence.jsx` to your project directory. 
 
 ## Quick Start
 
